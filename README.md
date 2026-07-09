@@ -36,7 +36,7 @@ DAX measures were created to calculate business metrics and KPIs.
 
 ## Dashboard Preview
 
-<img src="Dashboard.png" width="800">
+![Sales Dashboard](Dashboard.png)
 
 ## Files
 
