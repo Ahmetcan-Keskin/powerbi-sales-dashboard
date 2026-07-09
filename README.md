@@ -36,7 +36,7 @@ DAX measures were created to calculate business metrics and KPIs.
 
 ## Dashboard Preview
 
-![Sales Dashboard](Dashboard.png 1.png)
+![Sales Dashboard](https://github.com/Ahmetcan-Keskin/powerbi-sales-dashboard/blob/main/powerbi-sales-dashboard/Sales%20Dashboard.pbix/Dashboard.png/Dashboard.png%201.png?raw=true)
 
 ## Files
 
